@@ -4,6 +4,7 @@
       <img alt="Vue logo" src="../assets/logo-circle-sm.png" />
 
       <LocalizedLink to="/">{{ $t("nav.home") }}</LocalizedLink>
+      <LocalizedLink to="/">{{ $t("nav.oui") }}</LocalizedLink>
       <LocalizedLink to="/about">{{ $t("nav.about") }}</LocalizedLink>
     </div>
 
